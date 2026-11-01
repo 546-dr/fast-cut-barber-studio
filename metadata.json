@@ -1,0 +1,6 @@
+{
+  "name": "FAST CUT BARBER STUDIO",
+  "description": "Estilo que te define. Cortes modernos, clásicos y personalizados con atención de primer nivel en FAST CUT BARBER STUDIO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
